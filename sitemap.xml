@@ -151,6 +151,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/tendencias-durante-las-vacaciones.html</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/deliveroo-san-valentin.html</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -248,6 +254,18 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/procurement.html</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/tendencias.html</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/gasto.html</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
