@@ -55,6 +55,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/becas-deliveroo-ironhack.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/arabe-deliveroo.html</loc>
     <lastmod>2019-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -295,25 +301,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/tag/ironhack.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/becas.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/formacion.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/d.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/tag/restaurante.html</loc>
-    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/seleccion.html</loc>
-    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/michelin.html</loc>
-    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/oviedo.html</loc>
     <lastmod>2019-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -338,6 +350,24 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/dfb.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/seleccion.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/michelin.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/oviedo.html</loc>
     <lastmod>2019-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
