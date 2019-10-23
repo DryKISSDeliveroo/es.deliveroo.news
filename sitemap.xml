@@ -295,6 +295,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/dia-mundial-del-pan.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/admin/</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -320,6 +326,18 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/bread.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/day.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -890,6 +908,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/archive/2019/page/3.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/archive/2019/page/4.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
