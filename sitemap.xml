@@ -25,7 +25,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/news/el-dia-internacional-del-gamer.html</loc>
+    <loc>https://es.deliveroo.news/news/yoga-superfoods.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -367,19 +367,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/gamer.html</loc>
+    <loc>https://es.deliveroo.news/tag/yoga.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/fornite.html</loc>
+    <loc>https://es.deliveroo.news/tag/superfood.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/durr-burger.html</loc>
+    <loc>https://es.deliveroo.news/tag/work.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -398,6 +398,24 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/oviedo.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/gamer.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/fornite.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/durr-burger.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
