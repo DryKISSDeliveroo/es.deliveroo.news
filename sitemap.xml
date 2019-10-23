@@ -157,6 +157,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/el-consumo-de-frutos-secos.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/deliveroo-nacho-day.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -362,6 +368,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/dfb.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/nuts.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
