@@ -91,6 +91,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/politician-s-favourites.html</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/riders-campana-verano.html</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,6 +206,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/news/deliveroo-editions.html</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/news/acuerdo-burgerking.html</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -362,6 +374,18 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/burger-king.html</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/politicos.html</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/elecciones.html</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
