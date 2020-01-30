@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/dia-internacional-de-la-croqueta.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/marketplace-deliveroo-restaurantes.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -67,6 +73,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/luna-llena.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/ride-like-deliveroo.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -86,6 +98,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/news/arabe-deliveroo.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/news/plantarse.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -343,6 +361,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/los-equipos-de-laliga-convertidos-en-comida.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/art4food.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -439,6 +463,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/tag/laliga.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/plantas.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/healthy.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/tag/riders.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -463,6 +505,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/tag/star-wars.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/menu.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/full-moon.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/tag/navidad.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -476,18 +536,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/social.html</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/star-wars.html</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/menu.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -830,12 +878,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/futbol.html</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/laliga.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
