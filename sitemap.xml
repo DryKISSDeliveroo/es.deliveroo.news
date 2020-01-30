@@ -73,6 +73,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/food-trends-2020.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/becas-deliveroo-ironhack.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -289,6 +295,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/manos-de-ayuda-social.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/deliveroo-thanksgiving.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -338,6 +350,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/news/el-73-de-los-riders-de-deliveroo-afirma-ganar-mas-cobrando-por-pedido.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/news/star-wars-menu.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -440,6 +458,54 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/race.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/navidad.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/ayuda.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/social.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/star-wars.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/menu.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/trends.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/tendencias.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/food.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -583,12 +649,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/food.html</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://es.deliveroo.news/tag/charity.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -698,12 +758,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/comida.html</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/tendencias.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -949,12 +1003,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/navidad.html</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://es.deliveroo.news/tag/thanksgiving.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -962,12 +1010,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/wedding.html</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/trends.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1081,6 +1123,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/tag/deliveroo/page/5.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/tag/comida/page/2.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1100,6 +1148,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/archive/2019/page/4.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/archive/2019/page/5.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1141,6 +1195,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/page/7.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1166,6 +1226,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/deliveroo/page/6.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/deliveroo/page/7.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
