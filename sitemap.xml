@@ -97,6 +97,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/deliveroo-delaporte-concierto.html</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/becas-deliveroo-ironhack.html</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -494,6 +500,30 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/verano.html</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/delaporte.html</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/concierto.html</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/musica.html</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/directo.html</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
