@@ -649,7 +649,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/restaurants.html</loc>
+    <loc>https://es.deliveroo.news/tag/riders.html</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/restaurantes-estudio-impacto-crecimiento.html</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/restaurantes.html</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -662,18 +674,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/chefs.html</loc>
-    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/riders.html</loc>
-    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/restaurantes-estudio-impacto-crecimiento.html</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -715,12 +715,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/restaurantes.html</loc>
-    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://es.deliveroo.news/tag/otono.html</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -734,6 +728,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/encuesta.html</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/restaurants.html</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
