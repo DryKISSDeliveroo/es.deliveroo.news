@@ -115,6 +115,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/deliveroo-editions-calendario.html</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/deliveroo-delaporte-concierto.html</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -619,6 +625,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/tag/calendario.html</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/adviento.html</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/editions.html</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/descuentos.html</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/tag/riders.html</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -944,12 +974,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/compra.html</loc>
-    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/editions.html</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
