@@ -409,6 +409,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/deliveroo-plus-familias.html</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/deliveroo-for-business-catering.html</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -638,6 +644,24 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/plus.html</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/familias.html</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/grupos.html</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -890,12 +914,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/javi-estevez.html</loc>
-    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/grupos.html</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
