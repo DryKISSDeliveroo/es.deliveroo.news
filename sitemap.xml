@@ -499,6 +499,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/deliveroo-ramen-kohlanta.html</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/deliveroo-patry-jordan.html</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -661,6 +667,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/tag/ramen.html</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/asiatico.html</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/comida.html</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/restaurantes.html</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/editions.html</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/tag/cafe.html</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -679,12 +715,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/restaurantes.html</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://es.deliveroo.news/tag/plus.html</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -698,12 +728,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/grupos.html</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/comida.html</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -800,12 +824,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/adviento.html</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/editions.html</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1867,12 +1885,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/restaurantes/page/2.html</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://es.deliveroo.news/tag/comida/page/2.html</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1880,6 +1892,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/comida/page/3.html</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/restaurantes/page/2.html</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
