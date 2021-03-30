@@ -241,12 +241,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/news/deliveroo-madres-mallorca.html</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://es.deliveroo.news/news/encuesta-valor-delivery-restaurantes-deliveroo.html</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -350,6 +344,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/news/deliveroo-national-day.html</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/news/deliveroo-madres-mallorca.html</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -721,19 +721,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/mallorca.html</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://es.deliveroo.news/tag/madres.html</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/nutricion.html</loc>
+    <loc>https://es.deliveroo.news/tag/cesta.html</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -866,6 +860,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/consejos.html</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/nutricion.html</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
