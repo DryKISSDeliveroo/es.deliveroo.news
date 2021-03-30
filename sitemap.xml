@@ -133,12 +133,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/news/deliveroo-torrijas-semanasanta.html</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://es.deliveroo.news/news/deliveroo-blackfriday.html</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -734,30 +728,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/nutricion.html</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/dulce.html</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/postres.html</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/torrijas.html</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/semana-santa.html</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1975,12 +1945,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/deliveroo/page/10.html</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://es.deliveroo.news/tag/restaurantes/page/2.html</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2125,12 +2089,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/news/page/12.html</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://es.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2186,12 +2144,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/deliveroo/page/11.html</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/deliveroo/page/12.html</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
