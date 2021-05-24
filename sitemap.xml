@@ -139,6 +139,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/deliveroo-signature.html</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/deliveroo-blackfriday.html</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -727,13 +733,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/ley.html</loc>
+    <loc>https://es.deliveroo.news/tag/signature.html</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/riders.html</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/ley.html</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
