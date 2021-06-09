@@ -355,12 +355,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/news/deliveroo-manomano.html</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://es.deliveroo.news/news/deliveroo-amigo-invisible.html</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -416,6 +410,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/news/acuerdo-burgerking.html</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/news/deliveroo-manomano.html</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -746,12 +746,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/decoracion.html</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/casas.html</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
