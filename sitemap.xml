@@ -595,6 +595,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/deliveroo-little-comic.html</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/encuesta-riders-asociaciones-flexibilidad.html</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2078,6 +2084,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/archive/2021/page/2.html</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/archive/2021/page/3.html</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
