@@ -313,6 +313,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/deliveroo-riders-encuesta.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/deliveroo-aniversario-confinamiento.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -769,6 +775,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/tag/riders.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/encuesta.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/ley.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/tag/comic.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -829,12 +853,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://es.deliveroo.news/tag/riders.html</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://es.deliveroo.news/tag/seguridad.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -854,12 +872,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/signature.html</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/ley.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1004,12 +1016,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/nutricion.html</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/encuesta.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2077,6 +2083,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/tag/riders/page/2.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/tag/restaurantes/page/2.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2084,12 +2096,6 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/restaurantes/page/3.html</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://es.deliveroo.news/tag/riders/page/2.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
