@@ -103,6 +103,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/deliveroo-riders-encuesta.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/news/deliveroo-pride.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -122,6 +128,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/news/ride-like-deliveroo.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/news/deliveroo-helados-verano.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -788,6 +800,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/tag/ley.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/tag/helados.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2083,6 +2101,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/tag/deliveroo/page/11.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/tag/riders/page/2.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2239,6 +2263,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://es.deliveroo.news/news/page/13.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://es.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2300,6 +2330,12 @@
   </url>
   <url>
     <loc>https://es.deliveroo.news/deliveroo/page/12.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://es.deliveroo.news/deliveroo/page/13.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
